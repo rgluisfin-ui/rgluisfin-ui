@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'm Reginaldo 👋
+- 🔭 I’m a Data Analyst | Business Inteligency Specialist
 <!--
 **rgluisfin-ui/rgluisfin-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
