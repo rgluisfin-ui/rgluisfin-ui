@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Reginaldo Da Rosa 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -24,7 +24,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- Google Data Analytics Professional Certificate 
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
