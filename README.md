@@ -25,7 +25,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 ## Currently Learning 
 
 - Google Data Analytics Professional Certificate 
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+
 
 ## Technical Skillset
 
