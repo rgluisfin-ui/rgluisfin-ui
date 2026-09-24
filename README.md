@@ -18,13 +18,12 @@ My focus is on building dashboards that get used, automating repetitive tasks to
       
 ## What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project - Data Warehouse End to End:** [Creating a modern Data Warehouse using SQL]  
+
 
 ## Currently Learning 
 
-- Google Data Analytics Professional Certificate 
+- Data Engineer Certification - DataCamp
 
 
 ## Technical Skillset
