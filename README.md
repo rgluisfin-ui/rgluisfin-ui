@@ -12,13 +12,11 @@
 </p>
 
 ## About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Data analyst with a growing specialism in data engineering, building automated pipelines, lakehouse architectures, and structured data models across retail, e-commerce, finance, and technology sectors. Hands-on experience with AWS (S3, Glue), Microsoft Fabric, Azure, Databricks, and SQL/Python to design ETL/ELT workflows, curate analytics-ready tables, and modernise manual reporting processes into scalable, governed data flows. Currently developing a Data Warehouse project and building working knowledge of Snowflake to broaden platform coverage. Combines this technical build experience with strong business context from HR and financial reporting - translating stakeholder requirements into well-modelled, reliable data foundations.
       
 ## What I'm Currently Working On 
 
-- **Project - Data Warehouse End to End:** [Creating a modern Data Warehouse using SQL]  
+- **Project - Data Warehouse End to End:** Creating a modern Data Warehouse using SQL 
 
 
 ## Currently Learning 
